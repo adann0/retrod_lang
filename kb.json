@@ -1,0 +1,583 @@
+{
+    "1": {
+        "t": 2,
+        "v": "Friends",
+        "d": 1
+    },
+    "4": {
+        "t": 1,
+        "v": [
+            10302
+        ],
+        "d": 21
+    },
+    "5": {
+        "t": 1,
+        "v": [
+            10297,
+            10304,
+            10317,
+            10349
+        ],
+        "d": 15
+    },
+    "6": {
+        "t": 1,
+        "v": [
+            10355
+        ],
+        "d": 22
+    },
+    "32": {
+        "i": 32,
+        "c": "L'heure de votre derni\u00e8re connexion, ainsi que l'adresse IP utilis\u00e9e alors, sont de bons indices pour savoir si la s\u00e9curit\u00e9 de votre compte est compromise.",
+        "l": 65
+    },
+    "33": {
+        "i": 33,
+        "c": "Votre percepteur est timide : entre deux r\u00e9coltes, vous devez le laisser r\u00e9cup\u00e9rer. Et ceci \u00e0 raison d'une heure de repos pour chaque niveau de votre guilde.",
+        "l": 63
+    },
+    "34": {
+        "i": 34,
+        "c": "Vous pouvez passer votre tour \u00e0 l'aide du <a href=asfunction:onHref,UiIndicator,Banner,_btnNextTurn>bouton Fin de tour</a>.",
+        "l": 10
+    },
+    "35": {
+        "i": 35,
+        "c": "Si vous souhaitez rejoindre un ami, ajoutez le \u00e0 votre <a href=asfunction:onHref,UiIndicator,Banner,_btnFriends>liste d'amis</a>. Si votre ami est en ligne, vous avez la possibilit\u00e9 de vous t\u00e9l\u00e9porter \u00e0 cot\u00e9 de lui en cliquant sur son nom.",
+        "l": 1
+    },
+    "36": {
+        "c": 33,
+        "n": "Les pods",
+        "o": -1,
+        "a": "Pour augmenter tes pods (c'est \u00e0 dire la charge de ton sac), il existe plusieurs moyens : \n \n- Chaque niveau de m\u00e9tier rapporte 5 pods plus un bonus de 1000 pods pour chaque m\u00e9tier de niveau 100. \n- Un point de force rapporte \u00e9galement 5 pods (tu augmenteras tes pods de pr\u00e9f\u00e9rence avec des parchemins, pas avec des points de caract\u00e9ristique). \n- Des sacs apportent des pods suppl\u00e9mentaires, ils n\u00e9cessitent d'avoir un niveau de r\u00e9colteur moyen. \n- Quelques ceintures augmentent aussi les pods. La plus accessible est \u00e9galement la plus efficace : la ceinture du Bouftou (jusqu'\u00e0 plus de 500 pods).",
+        "k": [
+            "pods",
+            "poids",
+            "portable",
+            "sac",
+            "augmenter",
+            "m\u00e9tiers",
+            "force",
+            "\u00e9quipement"
+        ],
+        "i": 36,
+        "ep": 1
+    },
+    "58": {
+        "c": 1,
+        "n": "Tes sorts",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnSpells>Tes sorts</a> \u00bb liste tous les sorts que tu as \u00e0 ta disposition. \n \nC'est \u00e0 partir de l\u00e0 que tu pourras attribuer les points de sorts que tu gagnes \u00e0 chaque niveau ou gr\u00e2ce \u00e0 des parchemins.",
+        "k": [
+            "sorts",
+            "parchemins",
+            "point de sort"
+        ],
+        "i": 58,
+        "ep": 1
+    },
+    "7": {
+        "i": 7,
+        "c": "Les <a href=asfunction:onHref,UiIndicator,Banner,_pvMP>points de mouvement</a> (PM) vous permettent de vous de d\u00e9placer en combat.",
+        "l": 10
+    },
+    "62": {
+        "c": 1,
+        "n": "Tes amis",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnFriends>Tes amis</a> \u00bb te permet de g\u00e9rer ta liste d'amis... mais aussi d'ennemis !\n\n\u00c0 partir de l\u00e0, tu peux ajouter de nouveaux joueurs \u00e0 tes amis, en supprimer, leur envoyer des messages priv\u00e9s ou les inviter dans ton groupe...",
+        "k": [
+            "amis",
+            "ennemis"
+        ],
+        "i": 62,
+        "ep": 1
+    },
+    "26": {
+        "i": 26,
+        "c": "Vous avez d\u00e9sormais un nouveau point de sauvegarde.\nSi votre personnage meurt, il sera t\u00e9l\u00e9port\u00e9 dans cette zone.",
+        "l": 23
+    },
+    "27": {
+        "i": 27,
+        "c": "Cette interface vous permet de visualiser vos <a href=asfunction:onHref,UiIndicator,Quests,_dgQuests,_lstList,_mcContent,row0>qu\u00eates</a>. \nVous pouvez cliquer sur une de vos <a href=asfunction:onHref,UiIndicator,Quests,_dgQuests,_lstList,_mcContent,row0>qu\u00eates</a> pour conna\u00eetre la liste des \u00e9tapes de cette qu\u00eate.",
+        "l": 60
+    },
+    "64": {
+        "c": 1,
+        "n": "Ta monture",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnMount>Ta monture</a> \u00bb te permet d'obtenir des informations sur ta dragodinde.",
+        "k": [
+            "monture",
+            "dragodinde"
+        ],
+        "i": 64,
+        "ep": 1
+    },
+    "21": {
+        "i": 21,
+        "c": "Certains <a href=asfunction:onHref,SpriteIndicator,-1,9037>personnages non joueurs</a> (PNJ) peuvent vous apprendre des m\u00e9tiers, n'h\u00e9sitez pas \u00e0 leur parler.",
+        "l": 44
+    },
+    "42": {
+        "c": 34,
+        "n": "Les H\u00f4tels de Vente",
+        "o": -1,
+        "a": "Les principaux h\u00f4tels de vente sont accessibles dans les cit\u00e9s. Ces b\u00e2timents, permettent de mettre en vente des objets, sans avoir \u00e0 rester connect\u00e9 ou devoir en faire la publicit\u00e9. Les vendeurs doivent choisir le prix de vente de leur objet, la quantit\u00e9 d'objets qu'ils veulent vendre, et leurs objets deviennent alors achetables par les joueurs qui consulteront l'h\u00f4tel de vente. Attention cependant, la quantit\u00e9 des objets qui peuvent \u00eatre mis en vente, leur niveau, le prix des taxes, ainsi que la dur\u00e9e de mise en vente d\u00e9pendent des h\u00f4tels de vente. Ces sp\u00e9cificit\u00e9s sont affich\u00e9es dans chaque h\u00f4tel de vente, fais-y attention, les h\u00f4tels de vente des grandes cit\u00e9s sont ainsi parfois beaucoup plus int\u00e9ressants ! Lorsqu'un objet n'a pas \u00e9t\u00e9 vendu avant le d\u00e9lai de vente, l'objet est retir\u00e9 de l'h\u00f4tel de vente et retourne dans la banque de son propri\u00e9taire. Si l'objet mis en vente est vendu, l'argent gagn\u00e9 est transf\u00e9r\u00e9 dans la banque du propri\u00e9taire. Les objets mis en vente dans les h\u00f4tels de vente, sont class\u00e9s en fonction de leur nature et de leur prix. Pour des objets vendus en quantit\u00e9 identique, seuls les moins chers sont affich\u00e9s, afin de faciliter le travail de l'acheteur. Ainsi, certains objets ne peuvent \u00eatre achet\u00e9s tant que les objets similaires mais moins chers n'ont pas \u00e9t\u00e9 achet\u00e9s ! Avant de mettre en vente un objet, pense \u00e0 consulter la liste des objets d\u00e9j\u00e0 en vente et essaye de fixer des prix plus bas que ceux des autres objets, si tu veux que tes objets se vendent rapidement. Les h\u00f4tels de vente constituent de loin, le meilleur syst\u00e8me de vente, et d'achat du jeu, ils te permettent d'acheter et de vendre ce que tu veux, de trouver les meilleurs prix, et de gagner \u00e9norm\u00e9ment de temps. De plus, chaque h\u00f4tel de vente indique le prix de vente moyen constat\u00e9 pour chaque objet qui y a \u00e9t\u00e9 vendu. Les diff\u00e9rents h\u00f4tels de vente sont affich\u00e9s sur la carte du jeu.",
+        "k": [
+            "\u00e9conomie",
+            "vendre",
+            "acheter",
+            "kamas",
+            "hdv",
+            "hotel",
+            "de",
+            "vente"
+        ],
+        "i": 42,
+        "ep": 1
+    },
+    "37": {
+        "c": 33,
+        "n": "Les familiers",
+        "o": -1,
+        "a": "Un familier pourra t'\u00e9pauler dans tes aventures. Du Chacha mignon au Chienchien rarissime, tu trouveras \u00e0 coup s\u00fbr un compagnon de voyage \u00e0 ton go\u00fbt, d'autant plus qu'ils t'apportent des bonus souvent importants. Attention cependant, il est n\u00e9cessaire de nourrir les familiers en r\u00e8gle g\u00e9n\u00e9rale, de respecter leurs d\u00e9lais de repas et leur r\u00e9gime alimentaire afin de veiller \u00e0 leur bonne sant\u00e9.",
+        "k": [
+            "familiers",
+            "nourrir",
+            "repas",
+            "d\u00e9lais",
+            "r\u00e9gime",
+            "sant\u00e9",
+            "bonus",
+            "compagnon",
+            "pet"
+        ],
+        "i": 37,
+        "ep": 1
+    },
+    "48": {
+        "c": 36,
+        "n": "Montures",
+        "o": -1,
+        "a": "Les montures permettent aux joueurs de se d\u00e9placer plus vite qu'en courant. Plus une monture est exp\u00e9riment\u00e9e, plus elle se d\u00e9place rapidement.",
+        "k": [
+            "montures",
+            "dragodindes",
+            "d\u00e9placement"
+        ],
+        "i": 48,
+        "ep": 20
+    },
+    "11": {
+        "i": 11,
+        "c": "Vous pouvez regagner vos <a href=asfunction:onHref,UiIndicator,Banner,_hHeart>points de vie</a> (PDV) en utilisant l'attitude <a href=asfunction:onHref,UiIndicator,Banner,_btnSitDown>s'assoir</a>, en mangeant du pain ou des potions, ou en utilisant une <a href=asfunction:onHref,PictoIndicator,-1,7004>source de jouvence</a>.",
+        "l": 11
+    },
+    "40": {
+        "c": 33,
+        "n": "La banque",
+        "o": -1,
+        "a": "La banque permet aux joueurs qui ne disposent pas de maisons et de coffres personnels, de stocker leurs objets. Chaque cit\u00e9 ou village important dispose de sa propre banque. L'ouverture d'un compte en banque est gratuite, et le nombre d'objets que vous pouvez y stocker est illimit\u00e9, mais chaque emplacement utilis\u00e9 vous co\u00fbtera 1 Kama \u00e0 chaque utilisation de votre compte en banque. Le compte en banque est commun \u00e0 l'ensemble des personnages d'un m\u00eame compte si ces derniers se trouvent sur le m\u00eame serveur.",
+        "k": [
+            "banque",
+            "coffre",
+            "objets",
+            "kamas"
+        ],
+        "i": 40,
+        "ep": 1
+    },
+    "8": {
+        "i": 8,
+        "c": "Les <a href=asfunction:onHref,UiIndicator,Banner,_pvAP>points d'action</a> (PA) vous permettent de lancer des <a href=asfunction:onHref,UiIndicator,Banner,_msShortcuts,_ctr1>sorts</a> ou d'attaquer au <a href=asfunction:onHref,UiIndicator,Banner,_msShortcuts,_ctrCC>corps \u00e0 corps</a>.\nLorsque vous avez fini votre tour, pensez \u00e0 cliquer sur le <a href=asfunction:onHref,UiIndicator,Banner,_btnNextTurn>bouton Fin de tour</a>.",
+        "l": 10
+    },
+    "44": {
+        "c": 35,
+        "n": "M\u00e9tiers de r\u00e9colte",
+        "o": -1,
+        "a": "Les m\u00e9tiers permettent de r\u00e9colter les ressources naturelles diss\u00e9min\u00e9es dans l'univers de Dofus. Elles sont rarement exploitables apr\u00e8s r\u00e9colte, il faut g\u00e9n\u00e9ralement les retravailler et les combiner pour en obtenir des objets utilisables. Les m\u00e9tiers de r\u00e9colte sont les plus simples \u00e0 rentabiliser car ils ne demandent aucun investissement financier, il faut juste pouvoir y consacrer beaucoup de temps. Les m\u00e9tiers de r\u00e9colte s'apprennent directement aupr\u00e8s des PNJ artisans.",
+        "k": [
+            "m\u00e9tiers",
+            "r\u00e9colte",
+            "artisans"
+        ],
+        "i": 44,
+        "ep": 1
+    },
+    "12": {
+        "t": 2,
+        "v": "Quests",
+        "d": 27
+    },
+    "30": {
+        "i": 30,
+        "c": "Cette interface vous permet de visualiser et de r\u00e9partir vos points de caract\u00e9ristiques. \nVous pouvez \u00e9galement voir vos points d'exp\u00e9rience (XP) et vos points d'\u00e9nergie.",
+        "l": 31
+    },
+    "29": {
+        "i": 29,
+        "c": "Cette interface vous permet de voir la carte de la zone dans laquelle votre personnage se trouve. \nVous pouvez y afficher les lieux importants de votre choix en s\u00e9lectionnant les diff\u00e9rents <a href=asfunction:onHref,UiIndicator,MapExplorer,_mcFilter4>filtres</a>.",
+        "l": 61
+    },
+    "45": {
+        "c": 35,
+        "n": "M\u00e9tiers de fabrication",
+        "o": -1,
+        "a": "Les m\u00e9tiers de fabrication sont g\u00e9n\u00e9ralement plus complexes que les m\u00e9tiers de r\u00e9colte, ils demandent un investissement beaucoup plus important, pour rassembler les diff\u00e9rentes ressources. Il est souvent plus int\u00e9ressant de commencer par un m\u00e9tier de r\u00e9colte pour s'enrichir et pr\u00e9parer des stocks de ressources, pour ensuite, se lancer dans un m\u00e9tier de fabrication compl\u00e9mentaire en utilisant ses stocks de ressources.",
+        "k": [
+            "m\u00e9tier",
+            "fabrication",
+            "artisanat",
+            "craft"
+        ],
+        "i": 45,
+        "ep": 1
+    },
+    "16": {
+        "t": 1,
+        "v": [
+            10295
+        ],
+        "d": 35
+    },
+    "41": {
+        "c": 34,
+        "n": "Les kamas",
+        "o": -1,
+        "a": "Le Kama est la monnaie officielle du jeu, elle est reconnue dans tout le continent, et te permet d'acheter ce que tu veux aux autres joueurs. Attention, le cours du Kama est tr\u00e8s variable, th\u00e9sauriser dans Dofus peut \u00eatre tr\u00e8s rentable, mais \u00e9galement tr\u00e8s dangereux ! Pense \u00e0 toujours garder quelques Kamas sur toi, ils sont indispensables pour acc\u00e9der \u00e0 ton coffre en banque, utiliser les Zaaps, les Zaapis, payer les taxes dans les h\u00f4tels de vente etc.",
+        "k": [
+            "kamas",
+            "argent",
+            "monnaie"
+        ],
+        "i": 41,
+        "ep": 1
+    },
+    "46": {
+        "c": 36,
+        "n": "Les zaaps",
+        "o": -1,
+        "a": "Les zaaps sont des arches magiques qui vous permettent de vous d\u00e9placer aux quatre coins du Monde moyennant quelques kamas. Sauvegarder une position est gratuit, mais voyager par zaap est payant. Attention ! Vous ne pouvez utiliser que les zaaps que vous avez d\u00e9j\u00e0 visit\u00e9s.",
+        "k": [
+            "zaaps",
+            "voyager",
+            "payant",
+            "stargate"
+        ],
+        "i": 46,
+        "ep": 1
+    },
+    "22": {
+        "i": 22,
+        "c": "Les ateliers vous permettent d'utiliser des outils et des machines pour cr\u00e9er des objets.",
+        "l": 45
+    },
+    "28": {
+        "i": 28,
+        "c": "Cette interface vous permet de visualiser et de faire \u00e9voluer l'ensemble de vos sorts. \nVous pouvez d\u00e9placer vos sorts de cette interface vers votre <a href=asfunction:onHref,UiIndicator,Banner,_msShortcuts,_ctr4>barre de sorts</a> pour les utiliser plus facilement pendant les combats. \n",
+        "l": 58
+    },
+    "55": {
+        "c": 36,
+        "n": "Se d\u00e9placer et changer de carte",
+        "o": -1,
+        "a": "Pour d\u00e9placer son personnage, il suffit de cliquer sur une destination avec le bouton gauche de la souris. \n \nPour changer de carte, il faut cliquer sur les plots de changement de carte (mat\u00e9rialis\u00e9s par des roses des vents) avec le bouton gauche de la souris. \nLes plots de changement de carte sont situ\u00e9s de chaque c\u00f4t\u00e9s des cartes du jeu.",
+        "k": [
+            "d\u00e9placer",
+            "changer",
+            "carte",
+            "bouger"
+        ],
+        "i": 55,
+        "ep": 1
+    },
+    "23": {
+        "i": 23,
+        "c": "<a href=asfunction:onHref,SpriteIndicator,-1,9059>Les personnages non joueurs</a> (PNJ) qui poss\u00e8dent un point d'exclamation vert au dessus de leur t\u00eate, peuvent vous proposer des qu\u00eates.\nN'h\u00e9sitez pas \u00e0 leur parler pour en savoir plus.",
+        "l": 1
+    },
+    "61": {
+        "c": 1,
+        "n": "Ta G\u00e9oposition",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnMap>G\u00e9oposition </a> \u00bb affiche la carte du monde. \n \nTu peux afficher sur celle-ci l'emplacement des zaaps, h\u00f4tels de vente, ateliers, temples de guilde... Les coordonn\u00e9es des zones d'affichent en survol quand tu passes ta souris dessus.",
+        "k": [
+            "carte",
+            "g\u00e9ographie",
+            "coordonn\u00e9es"
+        ],
+        "i": 61,
+        "ep": 1
+    },
+    "14": {
+        "t": 2,
+        "v": "MapExplorer",
+        "d": 29
+    },
+    "15": {
+        "t": 2,
+        "v": "Spells",
+        "d": 28
+    },
+    "24": {
+        "i": 24,
+        "c": "Les fontaines de jouvence vous permettent de regagner tous vos points de vie.\nLes personnages de niveau 15 et plus ne peuvent pas les utiliser.",
+        "l": 11
+    },
+    "57": {
+        "c": 1,
+        "n": "Caract\u00e9ristiques et m\u00e9tiers",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnStatsJob>caract\u00e9ristiques et m\u00e9tiers</a> \u00bb affiche toutes les caract\u00e9ristiques de ton personnage, ses m\u00e9tiers et son alignement. Tu peux y trouver un en coup d'oeil toutes les informations vitales. \n \nC'est \u00e9galement sur cette page que tu peux r\u00e9partir tes points de caract\u00e9ristiques quand tu gagnes un niveau. \n \nEn cliquant sur l'\u00e9p\u00e9e, tu peux afficher le d\u00e9tail de l'ensemble des caract\u00e9ristiques de ton personnage et des bonus apport\u00e9s par son \u00e9quipement.",
+        "k": [
+            "fiche",
+            "personnage",
+            "caract\u00e9ristiques",
+            "m\u00e9tiers"
+        ],
+        "i": 57,
+        "ep": 1
+    },
+    "60": {
+        "c": 1,
+        "n": "Liste des qu\u00eates",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnQuests>Liste des qu\u00eates </a> \u00bb affiche vos qu\u00eates en cours et termin\u00e9es. \n \nSi vous \u00eates perdu dans une qu\u00eate, vous pouvez y retrouver les dialogues des PNJ (personnages non joueurs) qui vous ont confi\u00e9 une qu\u00eate et utiliser la boussole pour retrouver l'endroit o\u00f9 vous devez vous rendre.",
+        "k": [
+            "qu\u00eates",
+            "liste des qu\u00eates",
+            "journal"
+        ],
+        "i": 60,
+        "ep": 1
+    },
+    "38": {
+        "c": 33,
+        "n": "Les coffres particuliers",
+        "o": -1,
+        "a": "Les joueurs qui disposent d'une maison peuvent entreposer leurs objets dans des coffres dont le nombre d'emplacements varie g\u00e9n\u00e9ralement entre 60 et 80. Les maisons les plus grandes disposent parfois de plus de 3 coffres.",
+        "k": [
+            "coffre",
+            "priv\u00e9",
+            "maisons"
+        ],
+        "i": 38,
+        "ep": 1
+    },
+    "47": {
+        "c": 36,
+        "n": "Les zaapis",
+        "o": -1,
+        "a": "L'utilisation des zaapis ne co\u00fbte que quelques Kamas et permet de se d\u00e9placer \u00e0 l'int\u00e9rieur d'une cit\u00e9 entre les principaux b\u00e2timents. \n\u00c0 l'inverse des zaaps qu'il faut d\u00e9couvrir soi-m\u00eame un \u00e0 un avant de pouvoir les utiliser, les zaapis sont tous connus par d\u00e9faut. Bien s\u00fbr, ils ne sont actifs que pour la ville dans laquelle vous \u00eates.",
+        "k": [
+            "zaapis",
+            "bonta",
+            "brakmar",
+            "d\u00e9placement"
+        ],
+        "i": 47,
+        "ep": 16
+    },
+    "17": {
+        "i": 17,
+        "c": "Cliquez sur l'aigle Ganym\u00e8de pour lui parler. \n \nLe point d'exclamation sur sa t\u00eate signifie qu'il a une mission \u00e0 vous proposer.",
+        "l": 1
+    },
+    "43": {
+        "c": 34,
+        "n": "Le mode marchand",
+        "o": -1,
+        "a": "Le mode marchand permet aux joueurs de vendre leurs objets, mais uniquement lorsque ces derniers sont d\u00e9connect\u00e9s. Le nombre d'objets que le joueur peut mettre en vente dans son mode marchand, d\u00e9pend de son niveau. Pour chaque niveau, un joueur peut vendre un type d'objet (dans la quantit\u00e9 de son choix). Un joueur qui veut utiliser le mode marchand, doit commencer par trouver une carte disponible (il ne peut pas y avoir plus de 6 marchands par carte), choisir ce qu'il veut placer dans son mode marchand (ces options sont accessibles via le menu contextuel du personnage), les prix et les quantit\u00e9s de ses objets et se d\u00e9connecter en activant son mode marchand. Les autres joueurs pourront consulter son mode marchand et acheter ses objets. L'argent gagn\u00e9 est transf\u00e9r\u00e9 directement dans l'inventaire du personnage.",
+        "k": [
+            "vendre",
+            "acheter",
+            "mode",
+            "marchand",
+            "d\u00e9connexion"
+        ],
+        "i": 43,
+        "ep": 1
+    },
+    "56": {
+        "c": 33,
+        "n": "Les familiers",
+        "o": -1,
+        "a": "Les familiers sont des cr\u00e9atures que vous pouvez \u00e9quiper via votre page d'inventaire. En les nourissant bien, ces compagnons pourront vous donner des bonus non n\u00e9gligeables ! Chaque familier a sa nourriture favorite, ne leur donnez pas n'importe quoi \u00e0 manger ! Si vous ne les nourrissez pas r\u00e9guli\u00e8rement, vos familiers finiront pas mourir de faim. \n \nLe <a href=asfunction:onHref,PointCompass,9,21>channil</a> vous permet de laisser vos familier sous bonne garde. Un certificat vous sera remis vous permettant de r\u00e9cup\u00e9rer votre familier contre des kamas \u00e0 tout moment. Le channil vend \u00e9galement des livre expliquant comment bien nourrir les familiers.",
+        "k": [
+            "familiers",
+            "nourriture",
+            "channil",
+            "faim",
+            "manger"
+        ],
+        "i": 56,
+        "ep": 1
+    },
+    "10": {
+        "t": 1,
+        "v": [
+            10258
+        ],
+        "d": 11
+    },
+    "39": {
+        "c": 33,
+        "n": "Les maisons",
+        "o": -1,
+        "a": "Il est possible d'acheter une maison pour y retrouver ses amis, entreposer des objets (dans les coffres particuliers). Les maisons peuvent \u00eatre achet\u00e9es dans les cit\u00e9s et les villages, mais aussi parfois en pleine campagne. Plus une maison est grande, plus elle comporte de coffres particuliers et plus elle est ch\u00e8re. Une maison achet\u00e9e peut \u00eatre mise en vente \u00e0 n'importe quel prix. Le propri\u00e9taire de la maison peut lui-m\u00eame d\u00e9cider d'ouvrir ou de fermer sa maison aux autres joueurs, et peut d\u00e9finir un code d'entr\u00e9e, qu'il pourra partager avec ses amis. Le propri\u00e9taire de la maison peut acc\u00e9der \u00e0 ces param\u00e8tres via la porte de sa maison. Un joueur ne peut poss\u00e9der qu'une seule maison par compte.",
+        "k": [
+            "maisons",
+            "coffres",
+            "objets",
+            "stocker",
+            "code",
+            "propri\u00e9taire"
+        ],
+        "i": 39,
+        "ep": 1
+    },
+    "19": {
+        "i": 19,
+        "c": "Votre personnage vient de gagner un niveau. \nVous pouvez distribuer des <a href=asfunction:onHref,UiIndicator,Banner,_btnStatsJob>points de caract\u00e9ristiques</a> et des  <a href=asfunction:onHref,UiIndicator,Banner,_btnSpells>points de sorts</a>.",
+        "l": 27
+    },
+    "25": {
+        "i": 25,
+        "c": "Cliquez sur votre <a href=asfunction:onHref,SpriteIndicator,-1,53>tombe</a> pour lib\u00e9rer votre esprit si vous ne voulez pas attendre qu'un pr\u00eatre vous ressuscite.",
+        "l": 23
+    },
+    "9": {
+        "c": 6,
+        "n": "Les canaux de discussion",
+        "o": -1,
+        "a": "Tu as jusqu'\u00e0 sept canaux de discussion \u00e0 ta disposition pour communiquer avec les autres joueurs, amis ou inconnus. Chaque canal a son utilit\u00e9 et ses r\u00e8gles propres. Il faut donc <a href=asfunction:onHref,UiIndicator,Banner,_btnHelp,_mcIcon>choisir</a> m\u00e9ticuleusement o\u00f9 parler pour ne pas se faire tirer les oreilles. Les diff\u00e9rents canaux sont les suivants : \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter2>Le canal g\u00e9n\u00e9ral (en noir) :</a> C'est le canal par d\u00e9faut. Tu peux y parler de tout et de rien avec les joueurs pr\u00e9sents sur la m\u00eame carte que toi, du moment que tu respectes la charte du jeu. Note cependant que la vente \u00e0 la cri\u00e9e y est interdite si tu n'es pas sur une place marchande. \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter3>Le canal \u00e9quipe (en bleu) :</a> Ce canal te permet de discuter avec les autres personnes de ton \u00e9quipe en combat sans que vos adversaires ne puissent vous lire. Indispensable pour \u00e9tablir de bonnes strat\u00e9gies. \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter3>Le canal groupe (en bleu) :</a> Ce canal te permet de discuter d'un bout du jeu \u00e0 l'autre avec les personnes qui font partie de ton groupe d'aventuriers (voir la section 9 du manuel : \u00ab Jouer en groupe \u00bb). \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter4>Le canal guilde (en violet) :</a> C'est le canal r\u00e9serv\u00e9 aux conversations de ta guilde (voir la section 10 du manuel : \u00ab Jouer en guilde \u00bb). Tous les membres de ta guilde et eux seuls peuvent le lire et y parler. \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter5>Le canal alignement (en orange) </a>: Il existe trois canaux d'alignement : le canal des bontariens, le canal des brakmariens et le canal des S\u00e9rianes. Ces canaux sont r\u00e9serv\u00e9s aux joueurs qui ont choisi de s'impliquer dans l'une ou l'autre de ces communaut\u00e9s. Il est aussi n\u00e9cessaire d'acqu\u00e9rir un certain grade d'alignement pour pouvoir parler sur ces canaux. \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter6>Le canal recrutement (en gris) :</a> Si tu cherches une guilde ou, au contraire, des membres motiv\u00e9s pour rejoindre ta guilde, si tu cherches des joueurs pour former un groupe le temps de l'assaut d'un donjon... Ce canal est \u00e0 ta disposition. \n \n<a href=asfunction:onHref,UiIndicator,Banner,_cChat,_btnFilter7>Le canal commerce (en marron) :</a> Gr\u00e2ce \u00e0 ce canal, tu pourras proposer tes objets \u00e0 la vente et consulter les propositions des autres joueurs pr\u00e9sents dans la m\u00eame r\u00e9gion que toi.",
+        "k": [
+            "chat",
+            "canal",
+            "discuter",
+            "h\u00e9h\u00e9"
+        ],
+        "i": 9,
+        "ep": 1
+    },
+    "65": {
+        "c": 1,
+        "n": "Adresse IP",
+        "o": -1,
+        "a": "Une adresse IP est un num\u00e9ro qui identifie votre connexion \u00e0 Internet \u00e0 un moment donn\u00e9.  G\u00e9n\u00e9ralement, ces IP sont dynamiques, c'est-\u00e0-dire qu'elles changent \u00e0 chaque reconnexion de votre modem. \n\nVotre adresse IP indique quel est votre FAI (Fournisseur d'Acc\u00e8s \u00e0 Internet), d'o\u00f9 vous vous connectez...  Si vous comprenez l'anglais, vous pouvez obtenir les informations associ\u00e9es \u00e0 cette adresse, dont le FAI, en entrant l'adresse IP sur cette page : http://www.ripe.net/whois-advanced\n\nEn indiquant l'adresse IP et l'heure de votre derni\u00e8re connexion \u00e0 chaque reconnexion \u00e0 DOFUS, nous vous permettons de v\u00e9rifier vous-m\u00eame si quelqu'un d'autre a utilis\u00e9 votre compte en votre absence.",
+        "k": [
+            "IP",
+            "adresse",
+            "FAI",
+            "connexion",
+            "hack",
+            "modem"
+        ],
+        "i": 65,
+        "ep": 1
+    },
+    "20": {
+        "i": 20,
+        "c": "Si vous disposez du m\u00e9tier ad\u00e9quat et que vous avez \u00e9quip\u00e9 votre outil, vous pouvez collecter des ressources.",
+        "l": 44
+    },
+    "59": {
+        "c": 1,
+        "n": "Ton inventaire",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnInventory>Ton inventaire</a> \u00bb affiche tous les objets que tu as dans ton sac et ceux que tu as \u00e9quip\u00e9. \n \nTon sac est divis\u00e9 en quatre cat\u00e9gories : \n- \u00c9quipement (ce sont tes armes et tes v\u00eatements, tous les objets que tu peux \u00e9quiper);\r\n            \n- Divers (parchemins, livres, potions, pains...);\r\n            \n- Ressources (bouts de monstres ou r\u00e9coltes d'artisans...);\r\n            \n- Objets de qu\u00eates (objets de premi\u00e8re importance ! tu ne peux pas les toucher).",
+        "k": [
+            "inventaire",
+            "objets",
+            "ressources",
+            "\u00e9quipement",
+            "objets de qu\u00eates"
+        ],
+        "i": 59,
+        "ep": 1
+    },
+    "18": {
+        "i": 18,
+        "c": "Votre passage de niveau vous a fait gagner un nouveau sort. \nPour l'utiliser vous devez ouvrir votre <a href=asfunction:onHref,UiIndicator,Banner,_btnSpells>Livre des sorts</a> et le d\u00e9placer vers votre <a href=asfunction:onHref,UiIndicator,Banner,_msShortcuts,_ctr4>barre de sorts</a>.",
+        "l": 18
+    },
+    "49": {
+        "c": 36,
+        "n": "Les aeronefs",
+        "o": -1,
+        "a": "Tu trouveras des a\u00e9ronefs et autres machines volantes dans le village des Brigandins. Tu ne pourras utiliser ce moyen de locomotion que si tu es align\u00e9, et si les tiens ont conquis le village !",
+        "k": [
+            "voyager",
+            "aeronef",
+            "alignement",
+            "bonta",
+            "brakmar"
+        ],
+        "i": 49,
+        "ep": 17
+    },
+    "63": {
+        "c": 1,
+        "n": "Ta guilde",
+        "o": -1,
+        "a": "La page \u00ab <a href=asfunction:onHref,UiIndicator,Banner,_btnGuild>Ta guilde</a> \u00bb ne peut s'ouvrir que si tu fais partie d'une guilde.\n\nTu peux y trouver toutes les informations importantes sur ta guilde : liste des membres, niveau de la guilde, emplacement des percepteurs...\n\nLe syst\u00e8me de guilde vous permet de vous regrouper entre joueurs sous un m\u00eame blason. En plus de la convivialit\u00e9 et de la franche camaraderie d'une guilde bien soud\u00e9e, en rejoindre une offre quelques possibilit\u00e9s suppl\u00e9mentaires :\n\n<strong>Utiliser les percepteurs</strong>\nLes percepteurs peuvent pr\u00e9lever une partie des ressources r\u00e9colt\u00e9es sur une carte donn\u00e9e, ainsi qu'une partie des objets, des kamas ou de l'exp\u00e9rience obtenus dans les combats de cette carte. Plus le niveau de votre guilde est \u00e9lev\u00e9, plus la pose d'un percepteur est ch\u00e8re (1000 kamas + (niveau de la guilde \u00d7 10) et plus le temps entre deux r\u00e9coltes sera long (1 heure \u00d7 niveau de la guilde). Cependant, plus le niveau de votre guilde augmente plus votre percepteur devient fort et dou\u00e9 dans l'obtention de bonus. Ne tardez jamais \u00e0 rejoindre le combat lorsque votre percepteur est attaqu\u00e9 !\n\n<strong>Utiliser les enclos de guilde</strong>\nLes guildes ont la possibilit\u00e9 d'acqu\u00e9rir des enclos \u00e0 dragodindes. Contrairement aux enclos publics, ceux-ci vous permettent d'\u00e9lever vos dragodindes en toute s\u00e9curit\u00e9, en conservant le contr\u00f4le total sur leurs lign\u00e9es.\n\n<strong>Les maisons de guilde</strong>\nQuand un membre de la guilde ach\u00e8te une maison, il a la possibilit\u00e9 de la d\u00e9finir comme maison de guilde pour en faire profiter les autres membres. Id\u00e9al pour les rendez-vous secrets.\n\n<strong>\u00c9volution de votre guilde</strong>\nQuand vous combattez, vous avez la possibilit\u00e9 de donner un pourcentage de votre exp\u00e9rience \u00e0 votre guilde. En gagnant des niveaux, votre guilde pourra poss\u00e9der plus de maisons et d'enclos, et poser des percepteurs plus puissants.",
+        "k": [
+            "guilde",
+            "percepteurs"
+        ],
+        "i": 63,
+        "ep": 1
+    },
+    "31": {
+        "i": 31,
+        "c": "Cette interface vous permet de visualiser les \u00e9tapes de votre qu\u00eate. \nVous pouvez cliquer sur une <a href=asfunction:onHref,UiIndicator,Quests,_mcTab,_lstObjectives>\u00e9tape</a> lorsqu'une boussole est pr\u00e9sente pour conna\u00eetre la direction que vous devez suivre.",
+        "l": 60
+    },
+    "2": {
+        "t": 1,
+        "v": [
+            10276,
+            10279,
+            10283,
+            10284,
+            10292,
+            10296,
+            10298,
+            10299,
+            10300,
+            10294,
+            10289,
+            10285
+        ],
+        "d": 3
+    },
+    "3": {
+        "t": 1,
+        "v": [
+            10305,
+            10321,
+            10322,
+            10323,
+            10326,
+            10328,
+            10329,
+            10330,
+            10331,
+            10327,
+            10325,
+            10324
+        ],
+        "d": 23
+    },
+    "13": {
+        "t": 2,
+        "v": "StatsJob",
+        "d": 30
+    }
+}

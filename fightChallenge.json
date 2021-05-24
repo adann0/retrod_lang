@@ -1,0 +1,232 @@
+{
+    "1": {
+        "n": "Zombie",
+        "d": "Utiliser exactement un point de mouvement par tour de jeu.",
+        "g": 11
+    },
+    "2": {
+        "n": "Statue",
+        "d": "Finir son tour sur la m\u00eame case que celle o\u00f9 vous l'avez commenc\u00e9, pendant toute la dur\u00e9e du combat.",
+        "g": 9
+    },
+    "3": {
+        "n": "D\u00e9sign\u00e9 volontaire",
+        "d": "Tuer %1 en premier.",
+        "g": 4
+    },
+    "4": {
+        "n": "Sursis",
+        "d": "Tuer %1 en dernier.",
+        "g": 10
+    },
+    "5": {
+        "n": "\u00c9conome",
+        "d": "Tous les personnages ne doivent utiliser qu'une seule fois la m\u00eame action durant toute la dur\u00e9e du combat.",
+        "g": 3
+    },
+    "6": {
+        "n": "Versatile",
+        "d": "Chaque joueur n'a le droit d'effectuer qu'une seule fois une m\u00eame action pendant son tour de jeu.",
+        "g": 12
+    },
+    "7": {
+        "n": "Jardinier",
+        "d": "Planter une Cawotte \u00e0 chaque fois que le sort est disponible, pendant toute la dur\u00e9e du combat.",
+        "g": 6
+    },
+    "8": {
+        "n": "Nomade",
+        "d": "Utiliser tous ses PM disponibles \u00e0 chaque tour pendant toute la dur\u00e9e du combat.",
+        "g": 8
+    },
+    "9": {
+        "n": "Barbare",
+        "d": "N'utiliser aucun sort pendant toute la dur\u00e9e du combat.",
+        "g": 1
+    },
+    "10": {
+        "n": "Cruel",
+        "d": "Les adversaires doivent \u00eatre achev\u00e9s dans l'ordre croissant de leur niveau.",
+        "g": 2
+    },
+    "11": {
+        "n": "Mystique",
+        "d": "N'utiliser que des sorts pendant toute la dur\u00e9e du combat.",
+        "g": 7
+    },
+    "12": {
+        "n": "Fossoyeur",
+        "d": "Invoquer un Chaferfu \u00e0 chaque fois que le sort est disponible, pendant toute la dur\u00e9e du combat.",
+        "g": 5
+    },
+    "14": {
+        "n": "Casino Royal",
+        "d": "Lancer le sort Roulette \u00e0 chaque fois que le sort est disponible, pendant toute la dur\u00e9e du combat.",
+        "g": 14
+    },
+    "15": {
+        "n": "Araknophile",
+        "d": "Invoquer une Arakne \u00e0 chaque fois que le sort est disponible, pendant toute la dur\u00e9e du combat.",
+        "g": 15
+    },
+    "17": {
+        "n": "Intouchable",
+        "d": "Ne pas perdre de point de vie pendant toute la dur\u00e9e du combat.",
+        "g": 17
+    },
+    "18": {
+        "n": "Incurable",
+        "d": "Ne pas soigner pendant toute la dur\u00e9e du combat.",
+        "g": 18
+    },
+    "19": {
+        "n": "Mains propres",
+        "d": "Achever tous les monstres sans leur occasionner de d\u00e9g\u00e2ts directs pendant toute la dur\u00e9e du combat. Les pi\u00e8ges, les glyphes, les poisons, les dommages occasionn\u00e9s par les d\u00e9placements, les renvois de dommages ainsi que les attaques des invocations peuvent \u00eatre utilis\u00e9s.",
+        "g": 19
+    },
+    "20": {
+        "n": "El\u00e9mentaire",
+        "d": "Utiliser le m\u00eame \u00e9l\u00e9ment d'attaque pendant toute la dur\u00e9e du combat.",
+        "g": 20
+    },
+    "21": {
+        "n": "Circulez !",
+        "d": "Ne pas tenter de retirer de PM aux adversaires pendant toute la dur\u00e9e du combat.",
+        "g": 21
+    },
+    "22": {
+        "n": "Le temps qui court",
+        "d": "Ne pas tenter de retirer de PA aux adversaires pendant toute la dur\u00e9e du combat.",
+        "g": 22
+    },
+    "23": {
+        "n": "Perdu de vue",
+        "d": "Ne pas tenter de retirer de port\u00e9e aux adversaires pendant toute la dur\u00e9e du combat.",
+        "g": 23
+    },
+    "24": {
+        "n": "Born\u00e9",
+        "d": "Utiliser le m\u00eame sort ou la m\u00eame attaque au corps \u00e0 corps pendant toute la dur\u00e9e du combat.",
+        "g": 24
+    },
+    "25": {
+        "n": "Ordonn\u00e9",
+        "d": "Les adversaires doivent \u00eatre achev\u00e9s dans l'ordre d\u00e9croissant de leurs niveaux.",
+        "g": 25
+    },
+    "28": {
+        "n": "Ni pioutes ni soumises",
+        "d": "Les personnages de sexe masculin doivent laisser les personnages de sexe f\u00e9minin achever les adversaires pendant toute la dur\u00e9e du combat.",
+        "g": 28
+    },
+    "29": {
+        "n": "Ni pious ni soumis",
+        "d": "Les personnages de sexe f\u00e9minin doivent laisser les personnages de sexe masculin achever les adversaires pendant toute la dur\u00e9e du combat.",
+        "g": 29
+    },
+    "30": {
+        "n": "Les petits d'abord",
+        "d": "Le personnage de plus petit niveau doit achever tous les adversaires.",
+        "g": 30
+    },
+    "31": {
+        "n": "Focus",
+        "d": "Lorsqu'un adversaire est attaqu\u00e9, il doit \u00eatre achev\u00e9 avant qu'un autre adversaire soit attaqu\u00e9.",
+        "g": 31
+    },
+    "32": {
+        "n": "Elitiste",
+        "d": "Toutes les attaques doivent \u00eatre concentr\u00e9es sur %1 jusqu'\u00e0 ce qu'il meure.",
+        "g": 32
+    },
+    "33": {
+        "n": "Survivant",
+        "d": "Aucun alli\u00e9 ne doit mourir.",
+        "g": 33
+    },
+    "34": {
+        "n": "Impr\u00e9visible",
+        "d": "Toutes les attaques doivent \u00eatre concentr\u00e9es sur la cible d\u00e9sign\u00e9e \u00e0 chaque nouveau tour d'un personnage.",
+        "g": 34
+    },
+    "35": {
+        "n": "Tueur \u00e0 gages",
+        "d": "Les adversaires doivent \u00eatre tu\u00e9s dans l'ordre d\u00e9sign\u00e9. Une nouvelle cible est d\u00e9sign\u00e9e \u00e0 chaque fois que la cible pr\u00e9c\u00e9dente est tu\u00e9e.",
+        "g": 35
+    },
+    "36": {
+        "n": "Hardi",
+        "d": "Finir son tour sur une cellule adjacente \u00e0 celle d'un adversaire.",
+        "g": 36
+    },
+    "37": {
+        "n": "Collant",
+        "d": "Finir son tour sur une cellule adjacente \u00e0 celle d'un alli\u00e9.",
+        "g": 37
+    },
+    "38": {
+        "n": "Blitzkrieg",
+        "d": "D\u00e8s qu'un adversaire est attaqu\u00e9, il doit \u00eatre achev\u00e9 avant le d\u00e9but de son tour de jeu.",
+        "g": 38
+    },
+    "39": {
+        "n": "Anachor\u00e8te",
+        "d": "Ne jamais finir son tour sur une cellule adjacente \u00e0 celle d'un alli\u00e9.",
+        "g": 39
+    },
+    "40": {
+        "n": "Pusillanime",
+        "d": "Ne jamais finir son tour sur une cellule adjacente \u00e0 celle d'un adversaire.",
+        "g": 40
+    },
+    "41": {
+        "n": "P\u00e9tulant",
+        "d": "Utiliser tous les points d'action disponibles avant la fin de son tour de jeu.",
+        "g": 41
+    },
+    "42": {
+        "n": "Deux pour le prix d'un",
+        "d": "Lorsqu'un personnage ach\u00e8ve un adversaire, il doit obligatoirement achever un (et un seul) deuxi\u00e8me adversaire pendant son tour de jeu.",
+        "g": 42
+    },
+    "43": {
+        "n": "Abn\u00e9gation",
+        "d": "Les personnages ne doivent jamais recevoir de soins pendant leur tour de jeu.",
+        "g": 43
+    },
+    "44": {
+        "n": "Partage",
+        "d": "Chaque personnage doit avoir achev\u00e9 au moins un adversaire (qui ne soit pas une invocation) pendant le combat.",
+        "g": 44
+    },
+    "45": {
+        "n": "Duel",
+        "d": "Lorsqu'un personnage attaque un adversaire, aucun autre personnage ne doit attaquer cet adversaire pendant toute la dur\u00e9e du combat.",
+        "g": 51
+    },
+    "46": {
+        "n": "Chacun son monstre",
+        "d": "Chaque personnage doit avoir achev\u00e9 au moins un adversaire (qui ne soit pas une invocation) pendant le combat et lorsqu'un personnage attaque un adversaire, aucun autre personnage ne doit attaquer cet adversaire pendant toute la dur\u00e9e du combat.",
+        "g": 46
+    },
+    "47": {
+        "n": "Contamination",
+        "d": "D\u00e8s qu'un alli\u00e9 perd des points de vie, vous avez 3 tours de jeu pour achever votre alli\u00e9.",
+        "g": 47
+    },
+    "48": {
+        "n": "Les mules d'abord",
+        "d": "La mule de plus faible niveau doit achever tous les adversaires (\u00e7a vous apprendra \u00e0 muler comme un Porkass).",
+        "g": 48
+    },
+    "49": {
+        "n": "Prot\u00e9gez vos mules",
+        "d": "Ni les mules, ni les alli\u00e9s ne doivent mourir.",
+        "g": 49
+    },
+    "50": {
+        "n": "Le cheat des devs",
+        "d": "Finissez ce combat pour remporter ce challenge. C'est bien connu, tous les devs sont des cheaters.",
+        "g": 50
+    }
+}

@@ -1,0 +1,4369 @@
+{
+    "9": {
+        "d": "Clavier allemand - Allemagne",
+        "i": 9
+    },
+    "6": {
+        "d": "Combat",
+        "i": 6,
+        "o": 2
+    },
+    "3": {
+        "d": "Barre de raccourcis rapide",
+        "i": 3,
+        "o": 3
+    },
+    "4": {
+        "d": "Interface",
+        "i": 4,
+        "o": 6
+    },
+    "1": {
+        "d": "Autres raccourcis",
+        "i": 1,
+        "o": 99
+    },
+    "2": {
+        "d": "Discussion",
+        "i": 2,
+        "o": 1
+    },
+    "8": {
+        "d": "Barre de raccourcis d\u00e9pla\u00e7able",
+        "i": 8,
+        "o": 4
+    },
+    "7": {
+        "d": "Combinaison de porte",
+        "i": 7,
+        "o": 7
+    },
+    "\"1|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+("
+    },
+    "\"1|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"1|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"1|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"1|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"1|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+\u00e9"
+    },
+    "\"1|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+\u00e8"
+    },
+    "\"1|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 222,
+        "c": 1,
+        "s": "Ctrl+\u00b2"
+    },
+    "\"1|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"1|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"1|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"1|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 222,
+        "c": 2,
+        "s": "Shift+\u00b2"
+    },
+    "\"1|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"1|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"1|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"1|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 222,
+        "c": 0,
+        "s": "\u00b2"
+    },
+    "\"1|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"1|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"1|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"1|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"1|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"1|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"1|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"1|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"1|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"1|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"1|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "\u00e9"
+    },
+    "\"1|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "\u00e8"
+    },
+    "\"1|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"1|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"1|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"1|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"1|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"1|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 226,
+        "c": 0,
+        "s": "<"
+    },
+    "\"1|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"1|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"1|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"1|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"1|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+"
+    },
+    "\"1|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+&"
+    },
+    "\"1|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+'"
+    },
+    "\"1|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+("
+    },
+    "\"1|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+-"
+    },
+    "\"1|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"1|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+\u00e9"
+    },
+    "\"1|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+\u00e8"
+    },
+    "\"1|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"1|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"1|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"1|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"1|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"1|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"1|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"1|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 109,
+        "c": 2,
+        "s": "Maj+-"
+    },
+    "\"1|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+'"
+    },
+    "\"1|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"1|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "'"
+    },
+    "\"1|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "&"
+    },
+    "\"1|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"1|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"1|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+"
+    },
+    "\"1|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"1|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"1|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"1|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "-"
+    },
+    "\"1|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"1|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"1|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "("
+    },
+    "\"1|SEND_CHAT\"": {
+        "d": "SEND_CHAT",
+        "o": true,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"1|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"1|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"2|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"2|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"2|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"2|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"2|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"2|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"2|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"2|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"2|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"2|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 112,
+        "c": 1,
+        "s": "Ctrl+F1"
+    },
+    "\"2|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 115,
+        "c": 1,
+        "s": "Ctrl+F4"
+    },
+    "\"2|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 116,
+        "c": 1,
+        "s": "Ctrl+F5"
+    },
+    "\"2|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 116,
+        "c": 1,
+        "s": "Ctrl+F6"
+    },
+    "\"2|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 118,
+        "c": 1,
+        "s": "Ctrl+F7"
+    },
+    "\"2|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"2|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+("
+    },
+    "\"2|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"2|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 178,
+        "c": 1,
+        "s": "Ctrl+\u00b2"
+    },
+    "\"2|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"2|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"2|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"2|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 222,
+        "c": 2,
+        "s": "Maj+'"
+    },
+    "\"2|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 117,
+        "c": 0,
+        "s": "F6"
+    },
+    "\"2|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"2|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 178,
+        "c": 2,
+        "s": "Shift+\u00b2"
+    },
+    "\"2|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"2|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"2|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 116,
+        "c": 0,
+        "s": "F5"
+    },
+    "\"2|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"2|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"2|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"2|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 178,
+        "c": 0,
+        "s": "\u00b2"
+    },
+    "\"2|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 84,
+        "c": 2,
+        "s": "Maj+\u00e9"
+    },
+    "\"2|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 115,
+        "c": 0,
+        "s": "F4"
+    },
+    "\"2|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 232,
+        "c": 2,
+        "s": "Maj+\u00e8"
+    },
+    "\"2|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"2|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 114,
+        "c": 0,
+        "s": "3"
+    },
+    "\"2|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 113,
+        "c": 0,
+        "s": "F2"
+    },
+    "\"2|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"2|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"2|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"2|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"2|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"2|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"2|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"2|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 118,
+        "c": 0,
+        "s": "F7"
+    },
+    "\"2|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"2|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"2|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 114,
+        "c": 1,
+        "s": "Maj+F3"
+    },
+    "\"2|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"2|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"2|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"2|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"2|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 113,
+        "c": 1,
+        "s": "Maj+F2"
+    },
+    "\"2|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"2|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+"
+    },
+    "\"2|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"2|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"2|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 112,
+        "c": 0,
+        "s": "F1"
+    },
+    "\"2|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"2|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"2|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"2|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"2|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"2|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"2|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 190,
+        "c": 0,
+        "s": "<"
+    },
+    "\"2|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 109,
+        "c": 2,
+        "s": "Maj+-"
+    },
+    "\"2|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"2|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"2|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"3|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"3|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"3|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"3|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "1"
+    },
+    "\"3|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "2"
+    },
+    "\"3|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"3|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"3|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "4"
+    },
+    "\"3|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "5"
+    },
+    "\"3|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "6"
+    },
+    "\"3|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "7"
+    },
+    "\"3|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"3|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"3|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"3|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"3|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"3|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"3|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"3|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"3|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"3|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"3|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"3|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"3|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"3|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 192,
+        "c": 1,
+        "s": "Ctrl+`"
+    },
+    "\"3|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"3|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"3|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"3|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"3|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"3|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+!"
+    },
+    "\"3|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+#"
+    },
+    "\"3|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+$"
+    },
+    "\"3|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"3|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+%"
+    },
+    "\"3|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"3|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"3|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+@"
+    },
+    "\"3|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"3|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"3|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"3|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+^"
+    },
+    "\"3|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"3|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 226,
+        "c": 0,
+        "s": ""
+    },
+    "\"3|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 192,
+        "c": 0,
+        "s": "`"
+    },
+    "\"3|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"3|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"3|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"3|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"3|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"3|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"3|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"3|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"3|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"3|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"3|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"3|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"3|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"3|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"3|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"3|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"3|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 192,
+        "c": 2,
+        "s": "Shift+`"
+    },
+    "\"3|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"3|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"3|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"3|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"3|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"3|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"3|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"3|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"4|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 222,
+        "c": 2,
+        "s": "Shift+/"
+    },
+    "\"4|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"4|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"4|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"4|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"4|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"4|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"4|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"4|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"4|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"4|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"4|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"4|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+@"
+    },
+    "\"4|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+?"
+    },
+    "\"4|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"4|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"4|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"4|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"4|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"4|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "2"
+    },
+    "\"4|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"4|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"4|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"4|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"4|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"4|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"4|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"4|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"4|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+!"
+    },
+    "\"4|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"4|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"4|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"4|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"4|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"4|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"4|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+#"
+    },
+    "\"4|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"4|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"4|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"4|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+$"
+    },
+    "\"4|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "4"
+    },
+    "\"4|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"4|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"4|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"4|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "5"
+    },
+    "\"4|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"4|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"4|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 226,
+        "c": 0,
+        "s": "\u00f9"
+    },
+    "\"4|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"4|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "6"
+    },
+    "\"4|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"4|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"4|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "7"
+    },
+    "\"4|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"4|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 222,
+        "c": 0,
+        "s": "/"
+    },
+    "\"4|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"4|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"4|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"4|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"4|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"4|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"4|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"4|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+%"
+    },
+    "\"4|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "1"
+    },
+    "\"4|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"4|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"4|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"4|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"4|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 222,
+        "c": 1,
+        "s": "Ctrl+/"
+    },
+    "\"4|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"6|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"6|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"6|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"6|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"6|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"6|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+!"
+    },
+    "\"6|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"6|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+"
+    },
+    "\"6|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"6|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+$"
+    },
+    "\"6|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+%"
+    },
+    "\"6|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"6|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"6|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"6|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"6|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"6|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"6|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"6|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"6|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"6|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"6|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"6|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"6|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+^"
+    },
+    "\"6|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"6|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"6|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+\u00a3"
+    },
+    "\"6|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 220,
+        "c": 0,
+        "s": ""
+    },
+    "\"6|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"6|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 223,
+        "c": 0,
+        "s": "`"
+    },
+    "\"6|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"6|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"6|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"6|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"6|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"6|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"6|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"6|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"6|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"6|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "7"
+    },
+    "\"6|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"6|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"6|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"6|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "6"
+    },
+    "\"6|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"6|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"6|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "5"
+    },
+    "\"6|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"6|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"6|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"6|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "4"
+    },
+    "\"6|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"6|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"6|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"6|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"6|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"6|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "2"
+    },
+    "\"6|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "1"
+    },
+    "\"6|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 223,
+        "c": 2,
+        "s": "Shift+`"
+    },
+    "\"6|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"6|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"6|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"6|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 223,
+        "c": 1,
+        "s": "Ctrl+`"
+    },
+    "\"6|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"6|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"6|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"6|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"6|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"6|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"6|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"7|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"7|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"7|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"7|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"7|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"7|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"7|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "6"
+    },
+    "\"7|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"7|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"7|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"7|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 191,
+        "c": 2,
+        "s": "Shift+\u00a7"
+    },
+    "\"7|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"7|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"7|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"7|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"7|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"7|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "5"
+    },
+    "\"7|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"7|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"7|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"7|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 191,
+        "c": 1,
+        "s": "Ctrl+\u00a7"
+    },
+    "\"7|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"7|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"7|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "2"
+    },
+    "\"7|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"7|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"7|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 191,
+        "c": 0,
+        "s": "\u00a7"
+    },
+    "\"7|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"7|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"7|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"7|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"7|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"7|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"7|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"7|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"7|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"7|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"7|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"7|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "4"
+    },
+    "\"7|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"7|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"7|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "1"
+    },
+    "\"7|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"7|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 226,
+        "c": 0,
+        "s": "<"
+    },
+    "\"7|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "7"
+    },
+    "\"7|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"7|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"7|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"7|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"7|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"7|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"7|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"7|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"7|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"7|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"7|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"7|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"7|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"7|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"7|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"7|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"7|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"7|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"7|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"7|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"7|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"7|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"7|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"7|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"7|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"8|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"8|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"8|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+'"
+    },
+    "\"8|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"8|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"8|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"8|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"8|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"8|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"8|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"8|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "'"
+    },
+    "\"8|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "@"
+    },
+    "\"8|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"8|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 192,
+        "c": 0,
+        "s": "<"
+    },
+    "\"8|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"8|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "&"
+    },
+    "\"8|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"8|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"8|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 122,
+        "c": 1,
+        "s": "F1"
+    },
+    "\"8|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"8|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"8|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"8|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"8|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"8|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"8|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"8|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "\u00e8"
+    },
+    "\"8|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "\u00e9"
+    },
+    "\"8|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"8|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"8|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"8|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"8|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"8|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"8|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"8|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"8|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"8|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"8|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"8|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"8|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+"
+    },
+    "\"8|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"8|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"8|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"8|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"8|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"8|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"8|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "-"
+    },
+    "\"8|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"8|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 122,
+        "c": 2,
+        "s": "Shift+F1"
+    },
+    "\"8|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"8|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"8|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"8|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"8|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"8|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"8|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"8|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "("
+    },
+    "\"8|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"8|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"8|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+-\u00a7"
+    },
+    "\"8|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"8|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"8|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"8|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"8|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"8|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+\u00e8"
+    },
+    "\"8|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"8|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+\u00e9"
+    },
+    "\"8|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+("
+    },
+    "\"9|MOVABLEBAR_SH8\"": {
+        "d": "MOVABLEBAR_SH8",
+        "o": true,
+        "k": 57,
+        "c": 2,
+        "s": "Maj+9"
+    },
+    "\"9|SH13\"": {
+        "d": "SH13",
+        "o": true,
+        "k": 54,
+        "c": 1,
+        "s": "Ctrl+6"
+    },
+    "\"9|SHOWTRIGGERS\"": {
+        "d": "SHOWTRIGGERS",
+        "o": true,
+        "k": 65,
+        "c": 0,
+        "s": "a"
+    },
+    "\"9|SH5\"": {
+        "d": "SH5",
+        "o": true,
+        "k": 53,
+        "c": 0,
+        "s": "5"
+    },
+    "\"9|WHISPER_HISTORY_UP\"": {
+        "d": "WHISPER_HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 2,
+        "s": "Maj+Haut",
+        "k2": 33,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page pr\u00e9c."
+    },
+    "\"9|MOVABLEBAR_SH12\"": {
+        "d": "MOVABLEBAR_SH12",
+        "o": true
+    },
+    "\"9|CODE_NEXT\"": {
+        "d": "CODE_NEXT",
+        "o": true,
+        "k": 39,
+        "c": 0,
+        "s": "Droite"
+    },
+    "\"9|ALLOWSCALE\"": {
+        "d": "ALLOWSCALE",
+        "o": false,
+        "k": 83,
+        "c": 1,
+        "s": "Ctrl+S"
+    },
+    "\"9|MOVABLEBAR_SH4\"": {
+        "d": "MOVABLEBAR_SH4",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+5"
+    },
+    "\"9|HISTORY_DOWN\"": {
+        "d": "HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 0,
+        "s": "Bas"
+    },
+    "\"9|CONSOLESIZE\"": {
+        "d": "CONSOLESIZE",
+        "o": false,
+        "k": 220,
+        "c": 2,
+        "s": "Shift+^"
+    },
+    "\"9|SH1\"": {
+        "d": "SH1",
+        "o": true,
+        "k": 49,
+        "c": 0,
+        "s": "1"
+    },
+    "\"9|MINI\"": {
+        "d": "MINI",
+        "o": true,
+        "k": 109,
+        "c": 0,
+        "s": "-"
+    },
+    "\"9|MOVABLEBAR_SH3\"": {
+        "d": "MOVABLEBAR_SH3",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+4"
+    },
+    "\"9|SPRITEINFOS\"": {
+        "d": "SPRITEINFOS",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+\u00a7"
+    },
+    "\"9|MOVABLEBAR_SH11\"": {
+        "d": "MOVABLEBAR_SH11",
+        "o": true
+    },
+    "\"9|MOVABLEBAR_SH1\"": {
+        "d": "MOVABLEBAR_SH1",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+2"
+    },
+    "\"9|MOVABLEBAR_SH9\"": {
+        "d": "MOVABLEBAR_SH9",
+        "o": true
+    },
+    "\"9|SH6\"": {
+        "d": "SH6",
+        "o": true,
+        "k": 54,
+        "c": 0,
+        "s": "6"
+    },
+    "\"9|QUESTS\"": {
+        "d": "QUESTS",
+        "o": true,
+        "k": 81,
+        "c": 0,
+        "s": "q"
+    },
+    "\"9|AUTOCOMPLETE\"": {
+        "d": "AUTOCOMPLETE",
+        "o": false,
+        "k": 39,
+        "c": 1,
+        "s": "Ctrl+Droite"
+    },
+    "\"9|MAP\"": {
+        "d": "MAP",
+        "o": true,
+        "k": 77,
+        "c": 0,
+        "s": "m"
+    },
+    "\"9|SH7\"": {
+        "d": "SH7",
+        "o": true,
+        "k": 55,
+        "c": 0,
+        "s": "7"
+    },
+    "\"9|INVENTORY\"": {
+        "d": "INVENTORY",
+        "o": true,
+        "k": 73,
+        "c": 0,
+        "s": "i"
+    },
+    "\"9|BUFF\"": {
+        "d": "BUFF",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+&"
+    },
+    "\"9|HIDESPRITES\"": {
+        "d": "HIDESPRITES",
+        "o": true,
+        "k": 69,
+        "c": 0,
+        "s": "e"
+    },
+    "\"9|SH11\"": {
+        "d": "SH11",
+        "o": true,
+        "k": 52,
+        "c": 1,
+        "s": "Ctrl+4"
+    },
+    "\"9|WHISPER_HISTORY_DOWN\"": {
+        "d": "WHISPER_HISTORY_DOWN",
+        "o": false,
+        "k": 40,
+        "c": 2,
+        "s": "Maj+Bas",
+        "k2": 34,
+        "c2": 0,
+        "o2": false,
+        "s2": "Page suiv."
+    },
+    "\"9|SH10\"": {
+        "d": "SH10",
+        "o": true,
+        "k": 51,
+        "c": 1,
+        "s": "Ctrl+3"
+    },
+    "\"9|SH14\"": {
+        "d": "SH14",
+        "o": true,
+        "k": 55,
+        "c": 1,
+        "s": "Ctrl+7"
+    },
+    "\"9|SWAP\"": {
+        "d": "SWAP",
+        "o": true,
+        "k": 226,
+        "c": 0,
+        "s": "<"
+    },
+    "\"9|MOVABLEBAR_SH2\"": {
+        "d": "MOVABLEBAR_SH2",
+        "o": true,
+        "k": 51,
+        "c": 2,
+        "s": "Maj+3"
+    },
+    "\"9|TEAM_MESSAGE\"": {
+        "d": "TEAM_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 2,
+        "s": "Maj+Entr\u00e9e"
+    },
+    "\"9|NEXTTURN\"": {
+        "d": "NEXTTURN",
+        "o": false,
+        "k": 35,
+        "c": 1,
+        "s": "Ctrl+Fin"
+    },
+    "\"9|GUILD\"": {
+        "d": "GUILD",
+        "o": true,
+        "k": 71,
+        "c": 0,
+        "s": "g"
+    },
+    "\"9|MOUNTING\"": {
+        "d": "MOUNTING",
+        "o": true,
+        "k": 68,
+        "c": 2,
+        "s": "Maj+d"
+    },
+    "\"9|MOVABLEBAR_SH10\"": {
+        "d": "MOVABLEBAR_SH10",
+        "o": true
+    },
+    "\"9|SEND_CHAT_MSG\"": {
+        "d": "SEND_CHAT_MSG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"9|FRIENDS\"": {
+        "d": "FRIENDS",
+        "o": true,
+        "k": 70,
+        "c": 0,
+        "s": "f"
+    },
+    "\"9|SH12\"": {
+        "d": "SH12",
+        "o": true,
+        "k": 53,
+        "c": 1,
+        "s": "Ctrl+5"
+    },
+    "\"9|SH9\"": {
+        "d": "SH9",
+        "o": true,
+        "k": 50,
+        "c": 1,
+        "s": "Ctrl+2"
+    },
+    "\"9|TOGGLE_FIGHT_INFOS\"": {
+        "d": "TOGGLE_FIGHT_INFOS",
+        "o": true,
+        "k": 73,
+        "c": 1,
+        "s": "Ctrl+I"
+    },
+    "\"9|CHARAC\"": {
+        "d": "CHARAC",
+        "o": true,
+        "k": 67,
+        "c": 0,
+        "s": "c"
+    },
+    "\"9|MOVABLEBAR_SH0\"": {
+        "d": "MOVABLEBAR_SH0",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+1"
+    },
+    "\"9|GUILD_MESSAGE\"": {
+        "d": "GUILD_MESSAGE",
+        "o": false,
+        "k": 13,
+        "c": 1,
+        "s": "Ctrl+Entr\u00e9e"
+    },
+    "\"9|SHOWMONSTERSTOOLTIP\"": {
+        "d": "SHOWMONSTERSTOOLTIP",
+        "o": true,
+        "k": 90,
+        "c": 0,
+        "s": "z"
+    },
+    "\"9|CODE_PREVIOUS\"": {
+        "d": "CODE_PREVIOUS",
+        "o": true,
+        "k": 37,
+        "c": 0,
+        "s": "Gauche"
+    },
+    "\"9|ACCEPT_CURRENT_DIALOG\"": {
+        "d": "ACCEPT_CURRENT_DIALOG",
+        "o": false,
+        "k": 13,
+        "c": 0,
+        "s": "Entr\u00e9e"
+    },
+    "\"9|TRANSPARENCY\"": {
+        "d": "TRANSPARENCY",
+        "o": true,
+        "k": 50,
+        "c": 2,
+        "s": "Maj+"
+    },
+    "\"9|MOVABLEBAR_SH5\"": {
+        "d": "MOVABLEBAR_SH5",
+        "o": true,
+        "k": 54,
+        "c": 2,
+        "s": "Maj+6"
+    },
+    "\"9|MOVABLEBAR_SH6\"": {
+        "d": "MOVABLEBAR_SH6",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+7"
+    },
+    "\"9|CODE_CLEAR\"": {
+        "d": "CODE_CLEAR",
+        "o": true,
+        "k": 32,
+        "c": 0,
+        "s": "Espace",
+        "k2": 46,
+        "c2": 0,
+        "o2": true,
+        "s2": "Suppr"
+    },
+    "\"9|STRINGCOURSE\"": {
+        "d": "STRINGCOURSE",
+        "o": true,
+        "k": 49,
+        "c": 2,
+        "s": "Maj+!"
+    },
+    "\"9|MOVABLEBAR_SH7\"": {
+        "d": "MOVABLEBAR_SH7",
+        "o": true,
+        "k": 56,
+        "c": 2,
+        "s": "Maj+8"
+    },
+    "\"9|SPELLS\"": {
+        "d": "SPELLS",
+        "o": true,
+        "k": 83,
+        "c": 0,
+        "s": "s"
+    },
+    "\"9|HISTORY_UP\"": {
+        "d": "HISTORY_UP",
+        "o": false,
+        "k": 38,
+        "c": 0,
+        "s": "Haut"
+    },
+    "\"9|CONSOLE\"": {
+        "d": "CONSOLE",
+        "o": false,
+        "k": 220,
+        "c": 1,
+        "s": "Ctrl+^"
+    },
+    "\"9|MOVABLEBAR\"": {
+        "d": "MOVABLEBAR",
+        "o": true,
+        "k": 52,
+        "c": 2,
+        "s": "Maj+$"
+    },
+    "\"9|SH4\"": {
+        "d": "SH4",
+        "o": true,
+        "k": 52,
+        "c": 0,
+        "s": "4"
+    },
+    "\"9|SH3\"": {
+        "d": "SH3",
+        "o": true,
+        "k": 51,
+        "c": 0,
+        "s": "3"
+    },
+    "\"9|FULLSCREEN\"": {
+        "d": "FULLSCREEN",
+        "o": false,
+        "k": 70,
+        "c": 1,
+        "s": "Ctrl+F"
+    },
+    "\"9|SH0\"": {
+        "d": "SH0",
+        "o": true,
+        "k": 220,
+        "c": 0,
+        "s": "^"
+    },
+    "\"9|MOVABLEBAR_SH13\"": {
+        "d": "MOVABLEBAR_SH13",
+        "o": true
+    },
+    "\"9|SH8\"": {
+        "d": "SH8",
+        "o": true,
+        "k": 49,
+        "c": 1,
+        "s": "Ctrl+1"
+    },
+    "\"9|GRID\"": {
+        "d": "GRID",
+        "o": true,
+        "k": 53,
+        "c": 2,
+        "s": "Maj+%"
+    },
+    "\"9|COORDS\"": {
+        "d": "COORDS",
+        "o": true,
+        "k": 55,
+        "c": 2,
+        "s": "Maj+/"
+    },
+    "\"9|ESCAPE\"": {
+        "d": "ESCAPE",
+        "o": false,
+        "k": 27,
+        "c": 0,
+        "s": "\u00c9chap."
+    },
+    "\"9|MAXI\"": {
+        "d": "MAXI",
+        "o": true,
+        "k": 107,
+        "c": 0,
+        "s": "+"
+    },
+    "\"9|MOUNT\"": {
+        "d": "MOUNT",
+        "o": true,
+        "k": 68,
+        "c": 0,
+        "s": "d"
+    },
+    "\"9|SH2\"": {
+        "d": "SH2",
+        "o": true,
+        "k": 50,
+        "c": 0,
+        "s": "2"
+    },
+    "5": {
+        "d": "Menus",
+        "i": 5,
+        "o": 5
+    },
+    "ACCEPT_CURRENT_DIALOG": {
+        "d": "Valider la boite de dialogue actuelle.",
+        "c": 1,
+        "k": "",
+        "s": true
+    },
+    "SH14": {
+        "d": "Sort ou objet utilisable case de raccourci G",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH13": {
+        "d": "Sort ou objet utilisable case de raccourci F",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH12": {
+        "d": "Sort ou objet utilisable case de raccourci E",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH11": {
+        "d": "Sort ou objet utilisable case de raccourci D",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH10": {
+        "d": "Sort ou objet utilisable case de raccourci C",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH9": {
+        "d": "Sort ou objet utilisable case de raccourci B",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH8": {
+        "d": "Sort ou objet utilisable case de raccourci A",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH7": {
+        "d": "Sort ou objet utilisable case de raccourci 7",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH6": {
+        "d": "Sort ou objet utilisable case de raccourci 6",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH5": {
+        "d": "Sort ou objet utilisable case de raccourci 5",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH4": {
+        "d": "Sort ou objet utilisable case de raccourci 4",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH3": {
+        "d": "Sort ou objet utilisable case de raccourci 3",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH2": {
+        "d": "Sort ou objet utilisable case de raccourci 2",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH13": {
+        "d": "Sort ou objet utilisable case de raccourci 14",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH12": {
+        "d": "Sort ou objet utilisable case de raccourci 13",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH11": {
+        "d": "Sort ou objet utilisable case de raccourci 12",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH10": {
+        "d": "Sort ou objet utilisable case de raccourci 11",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH9": {
+        "d": "Sort ou objet utilisable case de raccourci 10",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "SH1": {
+        "d": "Sort ou objet utilisable case de raccourci 1",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH8": {
+        "d": "Sort ou objet utilisable case de raccourci 09",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH7": {
+        "d": "Sort ou objet utilisable case de raccourci 08",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH6": {
+        "d": "Sort ou objet utilisable case de raccourci 07",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH5": {
+        "d": "Sort ou objet utilisable case de raccourci 06",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH4": {
+        "d": "Sort ou objet utilisable case de raccourci 05",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH3": {
+        "d": "Sort ou objet utilisable case de raccourci 04",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH2": {
+        "d": "Sort ou objet utilisable case de raccourci 03",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH1": {
+        "d": "Sort ou objet utilisable case de raccourci 02",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR_SH0": {
+        "d": "Sort ou objet utilisable case de raccourci 01",
+        "c": 8,
+        "k": "",
+        "s": false
+    },
+    "CONSOLESIZE": {
+        "d": "Redimentionner la Console",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "NEXTTURN": {
+        "d": "Passer son tour ou \u00eatre pr\u00eat en phase de pr\u00e9paration de combat",
+        "c": 6,
+        "k": "",
+        "s": false
+    },
+    "CODE_NEXT": {
+        "d": "Passer au code suivant",
+        "c": 7,
+        "k": "",
+        "s": false
+    },
+    "CODE_PREVIOUS": {
+        "d": "Passer au chiffre pr\u00e9c\u00e9dent",
+        "c": 7,
+        "k": "",
+        "s": false
+    },
+    "MOUNT": {
+        "d": "Monture",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "MOUNTING": {
+        "d": "Monter ou descendre de sa monture",
+        "c": 1,
+        "k": "",
+        "s": false
+    },
+    "MINI": {
+        "d": "Minimiser la fen\u00eatre de chat",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "SHOWTRIGGERS": {
+        "d": "Mettre en valeur les cellules importantes de la carte",
+        "c": 1,
+        "k": "",
+        "s": false
+    },
+    "GUILD_MESSAGE": {
+        "d": "Message sur le canal Guilde",
+        "c": 2,
+        "k": "",
+        "s": true
+    },
+    "TEAM_MESSAGE": {
+        "d": "Message sur le canal \u00c9quipe",
+        "c": 2,
+        "k": "",
+        "s": true
+    },
+    "HISTORY_DOWN": {
+        "d": "Message suivant dans l'historique",
+        "c": 2,
+        "k": "",
+        "s": false
+    },
+    "HISTORY_UP": {
+        "d": "Message pr\u00e9c\u00e9dent dans l'historique",
+        "c": 2,
+        "k": "",
+        "s": false
+    },
+    "MAXI": {
+        "d": "Maximiser la fen\u00eatre de chat",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "SPELLS": {
+        "d": "Liste des sorts",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "QUESTS": {
+        "d": "Liste des qu\u00eates",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "FRIENDS": {
+        "d": "Liste d'amis / ennemis",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "INVENTORY": {
+        "d": "Inventaire",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "GUILD": {
+        "d": "Guilde",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "ESCAPE": {
+        "d": "Fermer l'interface ouverte",
+        "c": 1,
+        "k": "",
+        "s": true
+    },
+    "SEND_CHAT_MSG": {
+        "d": "Envoyer le message en cours",
+        "c": 2,
+        "k": "",
+        "s": true
+    },
+    "CODE_CLEAR": {
+        "d": "Effacer le chiffre actuel",
+        "c": 7,
+        "k": "",
+        "s": false
+    },
+    "WHISPER_HISTORY_DOWN": {
+        "d": "Correspondant suivant dans l'historique",
+        "c": 2,
+        "k": "",
+        "s": false
+    },
+    "WHISPER_HISTORY_UP": {
+        "d": "Correspondant pr\u00e9c\u00e9dent dans l'historique",
+        "c": 2,
+        "k": "",
+        "s": false
+    },
+    "AUTOCOMPLETE": {
+        "d": "Compl\u00e9ter le nom d'un personnage",
+        "c": 2,
+        "k": "",
+        "s": false
+    },
+    "MAP": {
+        "d": "Carte du monde",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "CHARAC": {
+        "d": "Caract\u00e9ristiques",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "HIDESPRITES": {
+        "d": "Cacher les sprites",
+        "c": 1,
+        "k": "",
+        "s": false
+    },
+    "SWAP": {
+        "d": "Basculer entre les raccourcis rapides de sorts et objets",
+        "c": 3,
+        "k": "",
+        "s": false
+    },
+    "SH0": {
+        "d": "Attaquer au corps \u00e0 corps",
+        "c": 6,
+        "k": "",
+        "s": false
+    },
+    "BUFF": {
+        "d": "Afficher / masquer les buffs et debuffs",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "GRID": {
+        "d": "Afficher / masquer la grille",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "CONSOLE": {
+        "d": "Afficher / masquer la Console",
+        "c": 5,
+        "k": "",
+        "s": false
+    },
+    "SHOWMONSTERSTOOLTIP": {
+        "d": "Afficher les infobulles des monstres",
+        "c": 1,
+        "k": "",
+        "s": false
+    },
+    "TOGGLE_FIGHT_INFOS": {
+        "d": "Affiche / masque les informations de combat dans le chat.",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "COORDS": {
+        "d": "Affiche / masque les coordonn\u00e9es de la carte",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "MOVABLEBAR": {
+        "d": "Affiche / masque la barre de raccourci depla\u00e7able",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "STRINGCOURSE": {
+        "d": "Activer / d\u00e9sactiver l'illustration en d\u00e9but de tour",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "SPRITEINFOS": {
+        "d": "Activer / d\u00e9sactiver les infos compl\u00e9mentaires sur un joueur en combat",
+        "c": 4,
+        "k": "",
+        "s": false
+    },
+    "ALLOWSCALE": {
+        "d": "Activer / d\u00e9sactiver le redimensionnement de la zone de jeu.",
+        "c": 1,
+        "k": "",
+        "s": true
+    },
+    "FULLSCREEN": {
+        "d": "Activer / d\u00e9sactiver le mode plein \u00e9cran.",
+        "c": 1,
+        "k": "",
+        "s": true
+    },
+    "TRANSPARENCY": {
+        "d": "Activer / d\u00e9sactiver la transparence des joueurs",
+        "c": 4,
+        "k": "",
+        "s": false
+    }
+}
